@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Greenavoid</title>
+        <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
+        <meta name="description" content="Greenavoid: greenhouse solution to avoid film cover u.v. and sulphur degradation">
+        <meta name="author" content="">
+
+        <link href="/static/css/bootstrap.min.css" rel="stylesheet">
+        <link href="/static/css/style.css" rel="stylesheet">
+        <!-- <link href="/static/css/bootstrap-responsive.min.css" rel="stylesheet"> -->
+
+        <link rel="shortcut icon" href="../assets/ico/favicon.png">
+    </head>
+
+    <body>
+        <div class="header-wrapper clearfix">
+            <div class="container">
+                <div class="row header">
+                    <div class="span12">
+                        <img src="/static/img/header.png" alt="Greenavoid" />
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="content-wrapper clearfix">
+            <div class="container">
+                <div class="row content">
+                    <div class="span3 leftbar">
+                        <ul class="nav nav-list">
+                            <li ><a href="/home/">Home</a></li>
+                            <li ><a href="/overview/">Project overview</a></li>
+                            <li ><a href="/partners/">Partners</a></li>
+                            <li ><a href="/documents/">Public documents</a></li>
+                            <li ><a href="/private/">Private area</a></li>
+                            <li class="selected"><a href="/news/">News &amp; events</a></li>
+                            <li ><a href="/contact/">Contact us</a></li>
+                        </ul>
+
+<!--                         <div class="news-widget">
+                            <h4>LATEST<br />NEWS &amp; EVENTS</h4>
+
+                            <div class="accordion" id="accordion2">
+                                <div class="accordion-group">
+                                    <div class="accordion-heading">
+                                        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">
+                                            01/12/2012<br />OFFICIAL START DATE
+                                        </a>
+                                    </div>
+                                    <div id="collapseOne" class="accordion-body collapse in">
+                                        <div class="accordion-inner">
+                                            Official start date of the project.
+                                            <br /><br /><a href="/news/1/">Read more</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="accordion-group">
+                                    <div class="accordion-heading">
+                                        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseTwo">
+                                            18/12/2012<br />KICK-OFF MEETING HELD AT CCP PREMISES, BARCELONA, SPAIN
+                                        </a>
+                                    </div>
+                                    <div id="collapseTwo" class="accordion-body collapse">
+                                        <div class="accordion-inner">
+                                            It's been held in CCP Masterbatch Offices (Barcelona, Spain). The agenda of the meeting was a welcome and introduction, a project overview, an introduction to the European 7th Framework Program and a work program for forthcoming months.
+                                            <br /><br /><a href="/news/2/">Read more</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="accordion-group">
+                                    <div class="accordion-heading">
+                                        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseThree">
+                                            07/02/2013<br />WORKSHOP IN MADRID
+                                        </a>
+                                    </div>
+                                    <div id="collapseThree" class="accordion-body collapse">
+                                        <div class="accordion-inner">
+                                            CP attendance to the Project Management Workshop held in Madrid at Inspiralia premises.
+                                            <br /><br /><a href="/news/3/">Read more</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                        </div> -->
+
+                        <div class="project_coordinator clearfix">
+                            <h4>PROJECT COORDINATOR</h4>
+
+                            CCP S.A.<br />
+                            Avda. Generalitat, 216 Bajos 2º<br />
+                            08174 Sant Cugat del Vallès<br />
+                            (Barcelona, Spain)<br />
+                            Phone: +34 93 863 96 70<br />
+                            FAX: +34 93 864 82 79<br />
+                            Email: ccpmb@ccpmb.com<br />
+                            Contact: Gerard Marques<br />
+
+                        </div>
+                        <div class="technical_coordinator clearfix">
+                            <h4>TECHNICAL COORDINATOR</h4>
+
+                            CETEC<br />
+                            Polígono Industrial Las Salinas<br />
+                            Avenida Europa 4-5<br />
+                            30840 Alhama de Murcia<br />
+                            Murcia (Spain)<br />
+                            Phone: +34 868 632 200<br />
+                            FAX +34 968 632 266<br />
+                            Email: cetec@forodigital.es<br />
+                            Web: <a href="http://www.ctcalzado.org">www.ctcalzado.org</a><br />
+                            Contact: Fuensanta Monzó<br />
+                        </div>
+                    </div>
+                    <div class="span9 right">
+                        
+                        
+    <h2 class="title">NEWS &amp; EVENTS</h2>
+
+    <a class="download-button" href="/news/">Back to news</a>
+    <br>
+    <br>
+    <br>
+
+    <div class="row news">
+        <div class="span9">
+            <div class="news-headline">
+                <a href="/news/1/">Sept. 12, 2014, 5:42 p.m. | The greenavoid project enters its final sprint</a>
+            </div>
+            <div class="news-body">
+                <p><span style="color: #444444; font-family: Calibri, sans-serif; font-size: 14.666666984558105px; line-height: 20px;">The members of the greenavoid project have developed an innovative three-layer film and a new sulfur vaporizer that are being tested since last August. These field experiments would last 3 months. The aim of these field experiments is to verify, in pilot greenhouses located in the area of Murcia, the effectiveness of our integrated solution. 4 greenhouses have been covered with the following combinations: greeenavoid film + greenavoid vaporizer, greeenavoid film + traditional vaporizer, traditional film + greenavoid vaporizer and, traditional film + traditional vaporizer.</span></p>
+            </div>
+        </div>
+    </div>
+
+<!--
+     -->
+
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="footer-wrapper clearfix">
+            <div class="container">
+                <div class="footer">
+                    <p>Copyright &copy; 2013 | All rights Reserved | Terms &amp; Conditions | Website by Zeptocode and Clara Batlle</p>
+                </div>
+            </div>
+        </div>
+
+
+
+        <script src="/static/js/jquery.min.js"></script>
+
+        <script src="/static/js/bootstrap.min.js"></script>
+
+        
+        
+
+    </body>
+</html>

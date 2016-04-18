@@ -1,0 +1,215 @@
+body {
+    overflow-y: scroll;
+    background: #222;
+}
+
+.header-wrapper {
+    height: 156px;
+    background: #fff;
+}
+
+.content-wrapper {
+    min-height: 600px;
+    background: #d8ecd7;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.footer-wrapper {
+    height: 50px;
+    background: #222;
+    text-align: center;
+    color: #ddd;
+    font-size: 0.8em;
+    padding: 10px;
+}
+
+
+
+h2.title{
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+
+img.bottom {
+    margin-top: 50px;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+/* Sidebar */
+
+.nav > li > a {
+    background-color: #f7fbf6;
+    text-decoration: none;
+    color:#333;
+    border-left: 8px solid #f7fbf6;
+    padding: 2px;
+    padding-left: 6px;
+    margin-top: 0px;
+    margin-bottom: 1px;
+    text-transform: uppercase;
+}
+
+.nav > li > a:hover, .nav > li > a:focus {
+    background-color: #d8ecd7;
+    text-decoration: none;
+}
+
+.nav > li.selected a {
+    background-color: #d8ecd7;
+    font-weight: bold;
+    border-left: 8px solid #2bdc7c;
+
+}
+
+.news-widget {
+    background-color: #f1f8f1;
+    padding: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.accordion-group {
+    border: 0;
+    border-bottom: 1px solid #ddd;
+/*    border-radius: 4px 4px 4px 4px;
+    margin-bottom: 2px;*/
+}
+
+.accordion {
+    font-size:0.9em;
+}
+
+a.accordion-toggle {
+    font-weight: bold;
+    border-left: 4px solid #2bdc7c;
+    color: #333;
+}
+
+.accordion-heading .accordion-toggle {
+    padding: 4px;
+}
+
+.accordion-inner {
+    border-top: 0;
+    padding: 9px 15px;
+    line-height: 13px;
+}
+
+
+
+.project_coordinator {
+    background-color: #b1d1b9;
+    padding: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-size:0.9em;
+}
+.technical_coordinator {
+    background-color: #f1f8f1;
+    padding: 10px;
+    font-size:0.9em;
+}
+
+
+.mybutton{
+margin-bottom:2px;
+background-color:#BABABA;padding-left:6px;
+}
+
+.mybutton:hover{
+background-color:#ACACAC;
+}
+
+.botonera {
+margin-top:10px; margin-left:5px;
+}
+
+.escogido {
+background-color:#CCCCCC;  border-left: 4px solid #0099FF;
+padding-left:2px; color:#000000; font-weight:bold;
+}
+
+
+
+/*
+PARTNERS
+*/
+.partner-box {
+    font-size: 0.9em;
+    background: #c1cfc1;
+    padding: 10px;
+    min-height: 340px;
+}
+
+.partner-row{
+    margin-bottom: 20px;
+}
+
+/*
+DOCUMENTS
+*/
+.document {
+    margin-bottom: 14px;
+}
+.document-title {
+    border-left: 8px solid #2bdc7c;
+    padding: 4px;
+}
+
+.download-button{
+    background-color: #a7e6be;
+    padding: 6px;
+    text-transform: uppercase;
+    color: #333;
+}
+
+.download-button:hover, .download-button:focus {
+    text-decoration: none;
+    color: #333;
+    background-color: #bbefce;
+}
+
+.login {
+    background-color: #ebf5e9;
+    padding: 20px;
+}
+
+/*
+NEWS
+*/
+.row.news {
+    margin-bottom: 20px;
+}
+
+.news-headline {
+    font-weight: bold;
+    border-left: 4px solid #2bdc7c;
+    padding: 4px;
+    margin-bottom: 4px;
+}
+.news-body {
+    margin-bottom: 6px;
+}
+
+.news-body p span {
+    background-color: transparent !important;
+}
+
+.news-headline a {
+    color: #333;
+}
+
+.carousel {
+    margin: 50px auto;
+    text-align: center;
+}
+
+/*
+CONTACT
+*/
+#contact-form textarea {
+    width: 400px;
+    height: 200px;
+}
